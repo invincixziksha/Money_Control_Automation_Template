@@ -1,0 +1,8 @@
+{
+	"dev":{
+		"url":"https://www.moneycontrol.com/",
+		"pageloadtimeout":"90",
+		"implicitwaittime":"30"
+
+	}
+}
